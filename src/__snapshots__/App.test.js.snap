@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тестиреум App Провереям основные элементы на странице 1`] = `
+<input
+  data-testid="main-input"
+  placeholder="в меня можно ввести текст"
+  type="text"
+/>
+`;
